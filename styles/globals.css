@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.instagram-logo {
+    background-position: 0 -130px;
+    height: 51px;
+    width: 175px;
+    background-image: url(https://bit.ly/3v2LT17);
+}
+
+.facebook-logo {
+    background-position: -414px -259px;
+    height: 16px;
+    width: 16px;
+    background-image: url(https://bit.ly/3v2LT17);
+}
+
+.apple-store-logo {
+    height: 40px;
+    width: 134px;
+    background-size: contain;
+    background-image: url(https://www.instagram.com/static/images/appstore-install-badges/badge_ios_english-en.png/180ae7a0bcf7.png);
+}
+
+.google-store-logo {
+    height: 40px;
+    width: 134px;
+    background-size: contain;
+    background-image: url(https://www.instagram.com/static/images/appstore-install-badges/badge_android_english-en.png/e9cd846dc748.png);
+}
